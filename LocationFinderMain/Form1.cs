@@ -22,7 +22,7 @@ namespace LocationFinderMain
 
         
 
-           // // The coordinate watcher.
+           // // // The coordinate watcher.
         private GeoCoordinateWatcher Watcher = null;
         // Create and start the watcher.
         private void Form1_Load(object sender, EventArgs e)
