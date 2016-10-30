@@ -29,7 +29,7 @@ namespace LocationFinderMain
         {
             
             
-            // Create the watcher.
+            // // Create the watcher.
             Watcher = new GeoCoordinateWatcher();
             // Catch the StatusChanged event.
             Watcher.StatusChanged += Watcher_StatusChanged;
